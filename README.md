@@ -1,1 +1,1 @@
-# react-typescript-hello-world
+# ReactJS + Typescript sample repo
